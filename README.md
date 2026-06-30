@@ -1,0 +1,1 @@
+# badgeify-menubar-manager
